@@ -1,0 +1,44 @@
+body{
+  margin:0 auto;
+}
+
+.main{
+  margin-top:50px;
+  height: 550px;
+}
+
+#widgets{
+  background-color: #ED564B;
+  height:350px;
+  border-top: #F96B61 solid 5px;
+  border-bottom: #F96B61 solid 5px;
+  color:#FFFFFF;
+  padding: 40px 20px;
+}
+
+#bottom{
+  background-color:#3B3B3B;
+  border-top: #ED564B solid 5px;
+  height:400px;
+  color:#989898;
+  padding-top:20px;
+}
+#bottom h6{
+color: #FFFFFF;
+}
+.card{
+  border: none;
+}
+
+#article{
+  padding-bottom: 50px;
+}
+
+footer{
+  background-color:#292929;
+  height:50px;
+}
+/* 
+.carousel{
+  height:550px;
+} */
